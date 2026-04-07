@@ -91,7 +91,7 @@ C[i][j] = A[i][0]*B[0][j] + A[i][1]*B[1][j] + A[i][2]*B[2][j] + A[i][3]*B[3][j]
 <img width="1700" height="2200" alt="Image" src="https://github.com/user-attachments/assets/cac75c7f-83a8-4819-8e0c-138fc255e545" />
 
 
-
+<img width="1700" height="2200" alt="Image" src="https://github.com/user-attachments/assets/f995c5ef-0462-4b5c-aeeb-8b63c0851e5d" />
 
 
 ## 📌 Conclusion
