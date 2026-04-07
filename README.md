@@ -87,9 +87,10 @@ C[i][j] = A[i][0]*B[0][j] + A[i][1]*B[1][j] + A[i][2]*B[2][j] + A[i][3]*B[3][j]
 ---
 
 ## 📊 Results (ILA Output)
-<img width="1920" height="1080" alt="ila1" src="https://github.com/user-attachments/assets/1451ad5b-182c-4524-a79e-a8274a431d95" />
 
-<img width="1920" height="1080" alt="ila2" src="https://github.com/user-attachments/assets/ebefd09d-b261-4f37-b568-17ef570ed3be" />
+<img width="1700" height="2200" alt="Image" src="https://github.com/user-attachments/assets/cac75c7f-83a8-4819-8e0c-138fc255e545" />
+
+
 
 
 
